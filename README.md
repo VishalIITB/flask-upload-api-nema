@@ -15,3 +15,9 @@
 4. You will see:
   - Response: `{"message": "Image received successfully"}`
   - Console: `Image uploaded!`
+    
+## Then run
+
+  git add README.md
+  git commit -m "Added README"
+  git push
