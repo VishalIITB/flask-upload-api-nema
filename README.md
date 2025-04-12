@@ -18,8 +18,8 @@
     
 ## Then run
 
-  -git add README.md
+-git add README.md
   
-  -git commit -m "Added README"
+-git commit -m "Added README"
   
-  -git push
+-git push
